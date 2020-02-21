@@ -4,15 +4,12 @@ Spring Security is divided into 5 Parts - Almost matching every security model.
 
 1) Authentication - 
 
-Who am I -- Identify your self.
-  Proof - Id 
-  Security Question.
-  
-Enough? Might not be.
-
-Send a Text Code to register your phone.
-
-Enter the Code at second Level --- Multifactor authenticatio
+    -Who am I -- Identify your self.
+    -Proof - Id 
+    -Security Question.
+     - Enough? Might not be.
+    - Send a Text Code to register your phone.
+    - Enter the Code at second Level --- Multifactor authenticatio
 
 2) Authorization
     - What access he wants.
