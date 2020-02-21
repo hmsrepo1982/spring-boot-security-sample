@@ -1,4 +1,4 @@
-# spring-boot-security-sample
+# spring-boot-security-sample - In Memory authentication Code in Version1
 
 Spring Security is divided into 5 Parts - Almost matching every security model.
 
