@@ -1,4 +1,4 @@
-# spring-boot-security-sample
+# spring-boot-security-sample ( Authorization - In memory Authentication & Authorization by HttpSecurity )
 
 Spring Security is divided into 5 Parts - Almost matching every security model.
 
